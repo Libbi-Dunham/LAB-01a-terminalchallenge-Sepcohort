@@ -4,6 +4,11 @@
     1. I live in California 
     1. I have a dog named Miklo
     1. I like to travel
+    
+    to declare a variable in Javascript we use the keyword `let`
+
+    This is an example of fat arrow functions in javascript:
+
  ```javascript
  const myFunc = () =>{
      console.log("my function!); 
